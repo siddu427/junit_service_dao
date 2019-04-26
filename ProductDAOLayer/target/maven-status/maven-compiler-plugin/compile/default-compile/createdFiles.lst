@@ -1,0 +1,4 @@
+com\nt\dao\ProductDaoImpl.class
+com\nt\model\ProdReq.class
+com\nt\Interface\ProductDao.class
+com\nt\model\ProdRes.class
